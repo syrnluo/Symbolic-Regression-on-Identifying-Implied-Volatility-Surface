@@ -1,4 +1,3 @@
-setwd("/Users/jiayiluo/Dropbox/PHD/symbolic/symbolic_regression")
 
 library(tidyverse)
 library(readxl)
